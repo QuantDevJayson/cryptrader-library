@@ -41,13 +41,24 @@ Suitable for both institutional and advanced retail users.
 
 ### Dashboard Screenshots
 
-![CrypTrader Dashboard](screenshots/cryptrader-dashboard.png)  
-![Arbitrage Insights](screenshots/cryptrader-arbitrage.png)  
-![Liquidity Analysis](screenshots/cryptrader-liquidity.png)  
-![Compliance Overview](screenshots/cryptrader-compliance.png)  
-![Sentiment Tracking](screenshots/cryptrader-sentiments.png)
+<img width="883" height="430" alt="cryptrader-dashboard" src="https://github.com/user-attachments/assets/4193d2a5-5637-45af-899c-212ef88e8252" />
 
 ---
+
+<img width="907" height="404" alt="cryptrader-arbitrage" src="https://github.com/user-attachments/assets/87ecbabc-51be-40cd-afbb-f751df6614d5" />
+
+---
+
+<img width="919" height="400" alt="cryptrader-liquidity" src="https://github.com/user-attachments/assets/86c43566-959e-4a12-bf46-c6cc5f738281" />
+
+---
+
+<img width="829" height="386" alt="cryptrader-compliance" src="https://github.com/user-attachments/assets/a0783c13-6a88-4600-b0b6-82f1f352edf6" />
+
+---
+
+<img width="876" height="427" alt="cryptrader-sentiments" src="https://github.com/user-attachments/assets/35b8852c-64b1-4c11-90d1-702ce34a099e" />
+
 
 ### Getting Started
 
@@ -81,4 +92,5 @@ CrypTrader is designed for production use and is actively used in a live environ
 - **LinkedIn**: [Jayson Ashioya](https://www.linkedin.com/in/jayson-ashioya-c-082814176/)
 
    
+
 
